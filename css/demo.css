@@ -14,8 +14,8 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: #2f3238;
-	color: #FF1F44;
+	background: #fff;
+	color: #4fb0ae;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Raleway', Arial, sans-serif;
@@ -23,12 +23,12 @@ body {
 
 a {
 	outline: none;
-	color: #FF1F44;
+	color: #4fb0ae;
 	text-decoration: none;
 }
 
 a:hover, a:focus {
-	color: #528cb3;
+	color: #2f3238;
 }
 
 section {
